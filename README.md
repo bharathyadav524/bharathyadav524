@@ -3,7 +3,7 @@ I build the invisible highways where data travels.<br>Data Engineer focused on c
 
 
 ## 🌐 Socials:
-[![Data Analyst Profile](https://bharathyadav524.github.io/DATA_ANALYST_PROTFOLIO/)]
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/bharathkumar524/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@bharath524419)  [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:Bharath524419@gmail.com) 
 
 # 💻 Tech Stack:
